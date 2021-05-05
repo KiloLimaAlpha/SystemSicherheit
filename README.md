@@ -21,7 +21,7 @@ To install the Intel SGX SDK, following tools are required:
 
 #Installation 
 
-The current Linux installation packages (x64 only) are divided into three parts and needs to be installed in the fallowing order: 
+The current Linux installation packages (x64 available only) are divided into three parts and needs to be installed in the fallowing order: 
   
     1. Intel SGX driver 
     2. Intel SGX platform software (PSW) 
