@@ -7,6 +7,7 @@ Requirements for hardware execution:
     
 Requirements for simulated execution:
   - Any Intel Core Processor
+  - AMD Processors may also work
   
 Operating System requirements:
   - Ubuntu 20.04 LTS 64-bit Desktop or Server version
