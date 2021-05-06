@@ -1,5 +1,5 @@
-# SystemSicherheit
-Repo for module system security in B-AI
+# System Security
+Repo for module System Security in B-AI
 
 Requirements for hardware execution:
   - 6th Generation Intel Core Processor or newer
@@ -20,9 +20,9 @@ To install the Intel SGX SDK, following tools are required:
   
     $ sudo apt install build-essential python-is-python3 
 
-#Installation 
+# Installation 
 
-The current Linux installation packages (x64 available only) are divided into three parts and needs to be installed in the fallowing order: 
+The current Linux installation packages (x64 available only) are divided into three parts and need to be installed in the fallowing order: 
   
     1. Intel SGX driver 
     2. Intel SGX platform software (PSW) 
